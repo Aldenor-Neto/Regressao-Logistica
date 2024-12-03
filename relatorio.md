@@ -140,3 +140,5 @@ A validação cruzada forneceu resultados consistentes, com médias de desempenh
 
 O modelo de Regressão Logística implementado obteve um desempenho excelente, tanto na avaliação com holdout quanto na validação cruzada. As métricas de avaliação indicam que o modelo é altamente eficaz na tarefa de classificação do câncer de mama. O modelo não apresentou sinais de overfitting, já que as métricas de desempenho se mantiveram consistentes entre o holdout e a validação cruzada.  
 
+## 7.Repositório
+[Repositório no GitHub - Regressão Logística](https://github.com/Aldenor-Neto/Regressao-Logistica)
